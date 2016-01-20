@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="fi">
+
+<head>
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>FOGELI</title>
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="frame.css">
+	
+</head>
+
+<body>
+
+	<div id="wrapper">
+		
+		<div id="navigation">
+
+			<div class="col-md-11">
+         
+				<ul class="nav nav-pills nav-stacked">
+					<li class="active"><a class="navigation" href="index.html">  Index</a></li>
+					<li><a class="navigation" href="about.html">  About</a></li>
+					<li><a class="navigation" href="team.html">  Team</a></li>
+					<li><a class="navigation" href="contact.html"> Countact us</a></li>
+					<li><a class="navigation" href="learningmaterial.html">  Learning material</a></li>
+					<li><a class="navigation" href="http://14tiko.projects.tamk.fi/">  Portal</a></li>
+					<li><a class="navigation" href="etusivu.html">  Suomeksi</a></li>
+				</ul>
+            
+			</div>
+			
+		</div>
+		
+		<div id="header">
+			<a href="index.html"><img class="skaalattu" alt="cover_pic" src="LOGOver1.png"></a>
+		
+		</div>
+		
+		<div id="text">
+      
+			<div id="trailer">
+         
+				<video id="trailer" src="Trailer.mp4" controls>Trailer</video>
+			
+         </div>
+		
+			<br>
+			
+			<p>In Phosphorus you guide the light to the goal with mirrors and lenses. Game will be playable at TAMK&#8217;s 
+			game fair 2015 at Tampere Hall at 6.5. and will be available in Google Play for free.</p>
+			
+			<p>Features include:</p>
+			
+			<ul>
+				<li>Multiple levels of optic puzzles with increasing difficulty!</li>
+				<li>Fun way to learn optics!</li>
+			</ul>
+			
+			<br>
+			
+		</div>
+		
+		<div id="footer">
+		
+			<img id="logo_tiko" src="tiko.png" alt="Tikos' logo">
+			
+			<img id="logo_tamk" src="tamk.png" alt="Tamks' logo">
+		
+		</div>
+		
+	</div>
+		
+</body>
+
+</html>
