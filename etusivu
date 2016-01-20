@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="fi">
+
+<head>
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>FOGELI</title>
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="frame.css">
+	
+</head>
+
+<body>
+
+	<div id="wrapper">
+		
+		<div id="navigation">
+
+			<div class="col-md-11">
+         
+				<ul class="nav nav-pills nav-stacked">
+					<li class="active"><a class="navigation" href="etusivu.html">  Etusivu</a></li>
+					<li><a class="navigation" href="tausta.html">  Taustat</a></li>
+					<li><a class="navigation" href="tiimi.html">  Tiimi</a></li>
+					<li><a class="navigation" href="yhteystiedot.html"> Yhteystiedot</a></li>
+					<li><a class="navigation" href="lisamateriaali.html">  Oppimateriaali</a></li>
+					<li><a class="navigation" href="http://14tiko.projects.tamk.fi/">  Portaali</a></li>
+					<li><a class="navigation" href="index.html">  In English</a></li>
+				</ul>
+            
+			</div>
+
+			
+		</div>
+		
+		<div id="header">
+      
+			<a href="etusivu.html"><img class="skaalattu" alt="kansikuva" src="LOGOver1.png"></a>
+		
+		</div>
+		
+		<div id="text">
+      
+			<video id="trailer" src="Trailer.mp4" controls>Traileri</video>
+		
+			<br>
+			
+			<br>
+			
+			<p>Ohjaa valons&#228;de maaliin k&#228;ytt&#228;m&#228;ll&#228; erilaisia peilej&#228; ja linssej&#228; apunasi. Peli&#228; voi pelata TAMKin vuoden 2015 pelimessuilla Tampere-talolla 
+			6.5. ja se on saatavilla ilmaiseksi my&#246;s Google Playst&#228;.</p>
+			
+			<p>Ominaisuuksia:</p>
+			
+			<ul>
+				<li>Useita optisia pulmia erilaisilla vaikeustasoilla!</li>
+				<li>Hauska tapa oppia optiikkaa!</li>
+			</ul>
+			
+			<br>
+		
+		
+		</div>
+		
+		<div id="footer">
+		
+			<img id="logo_tiko" src="tiko.png" alt="Tikon logo">
+			
+			<img id="logo_tamk" src="tamk.png" alt="Tamkin logo">
+		
+		</div>
+		
+	</div>
+		
+</body>
+
+</html>
