@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="fi">
+
+<head>
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>FOGELI</title>
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="frame.css">
+	
+</head>
+
+<body>
+
+	<div id="wrapper">
+		
+		<div id="navigation">
+
+			<div class="col-md-11">
+         
+				<ul class="nav nav-pills nav-stacked">
+					<li><a class="navigation" href="index.html">  Index</a></li>
+					<li class="active"><a class="navigation" href="about.html">  About</a></li>
+					<li><a class="navigation" href="team.html">  Team</a></li>
+					<li><a class="navigation" href="contact.html"> Countact us</a></li>
+					<li><a class="navigation" href="learningmaterial.html">  Learning material</a></li>
+					<li><a class="navigation" href="http://14tiko.projects.tamk.fi/">  Portal</a></li>
+					<li><a class="navigation" href="tausta.html">  Suomeksi</a></li>
+				</ul>
+            
+			</div>
+
+		</div>
+		
+		<div id="header">
+      
+			<a href="index.html"><img class="skaalattu" alt="cover_pic" src="LOGOver1.png"></a>
+		
+		</div>
+		
+		<div id="text">
+      
+			<h1>About</h1>
+			
+			<p>Before we came up with current concept, our older ideas included a survival game in a cold environment, a game where 
+			the goal was to shoot zombie hordes with differently colored shots and a game that was controlled by changing a particle&#8217;s 
+			polarity.</p>
+			
+			<p>We also provide learning material on our page.</p>
+			
+			<br>
+			
+			<p>Our goal is to advance secondary school students&#8217; understanding of optics. Our game will work as a replacement for 
+			traditional methods used in the 7th grade&#8217;s spring semester. With help of the fun and innovative learning method, the 
+			secrets of optics will be revealed to all! This website is part of TAMK&#8217;s game fair projects. Remember to check out the 
+			other teams&#8217; projects!</p>
+			
+			<br>
+			
+		</div>
+		
+		<div id="footer">
+		
+			<img id="logo_tiko" src="tiko.png" alt="Tikos' logo">
+			
+			<img id="logo_tamk" src="tamk.png" alt="Tamks' logo">
+		
+		</div>
+		
+	</div>
+		
+</body>
+
+</html>
