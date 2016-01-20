@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="fi">
+
+<head>
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>FOGELI</title>
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="frame.css">
+	
+</head>
+
+<body>
+
+	<div id="wrapper">
+		
+		<div id="navigation">
+
+			<div class="col-md-11">
+         
+				<ul class="nav nav-pills nav-stacked">
+					<li><a class="navigation" href="etusivu.html">  Etusivu</a></li>
+					<li class="active"><a class="navigation" href="tausta.html">  Taustat</a></li>
+					<li><a class="navigation" href="tiimi.html">  Tiimi</a></li>
+					<li><a class="navigation" href="yhteystiedot.html"> Yhteystiedot</a></li>
+					<li><a class="navigation" href="lisamateriaali.html">  Oppimateriaali</a></li>
+					<li><a class="navigation" href="http://14tiko.projects.tamk.fi/">  Portaali</a></li>
+               <li><a class="navigation" href="about.html">  In English</a></li>
+				</ul>
+            
+			</div>
+			
+		</div>
+		
+		<div id="header">
+      
+			<a href="etusivu.html"><img class="skaalattu" alt="kansikuva" src="LOGOver1.png"></a>
+		
+		</div>
+		
+		<div id="text">
+      
+			<h1>Projektista</h1>
+		
+			<p>Tarkoituksemme on edist&#228;&#228; yl&#228;koululaisten optiikan tiet&#228;myst&#228;. Pelimme toimii vaihtoehtona perinteisille
+			teht&#228;ville mit&#228; teht&#228;isiin yl&#228;koulun seitsem&#228;nnen luokan kev&#228;&#228;ll&#228;. Hauskan ja innovoivan opettelumenetelm&#228;n
+			avulla optiikan salat valkenee kaikille!</p>
+			
+			<p>Pelin ideoinnin aikana mielessämme kävi mm. kylmässä selviytymispeli, jossa piti pitää lämpöä yllä, väriteoriaan perustuva peli, jossa 
+			ammuttiin lähestyvää zombilaumaa värisillä panoksilla ja peli jota ohjattiin muuttamalla partikkelin varausta ja 
+			lopulta päädyimme nykyiseen peli-ideaamme.</p>
+			
+			<p>T&#228;m&#228; sivu on osa muita Tamkin peli messu projekteja. Muistakaa katsoa muidenkin tiimien tuotoksia!</p>
+			
+			<p>Tarjoamme sivuillamme my&#246;s opiskelumateriaaleja.</p>
+			
+			<br>
+			
+		</div>
+		
+		<div id="footer">
+      
+			<img id="logo_tiko" src="tiko.png" alt="Tikon logo">
+			
+			<img id="logo_tamk" src="tamk.png" alt="Tamkin logo">
+         
+		</div>
+		
+	</div>
+		
+</body>
+
+</html>
