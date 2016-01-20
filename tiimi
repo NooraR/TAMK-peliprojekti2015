@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="fi">
+
+<head>
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>FOGELI</title>
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="frame.css">
+	
+</head>
+
+<body>
+
+	<div id="wrapper">
+		
+		<div id="navigation">
+      
+			<div class="col-md-11">
+         
+				<ul class="nav nav-pills nav-stacked">
+					<li><a class="navigation" href="etusivu.html">  Etusivu</a></li>
+					<li><a class="navigation" href="tausta.html">  Taustat</a></li>
+					<li class="active"><a class="navigation" href="tiimi.html">  Tiimi</a></li>
+					<li><a class="navigation" href="yhteystiedot.html">  Yhteystiedot</a></li>
+					<li><a class="navigation" href="lisamateriaali.html">  Oppimateriaali</a></li>
+					<li><a class="navigation" href="http://14tiko.projects.tamk.fi/">  Portaali</a></li>
+               <li><a class="navigation" href="team.html">  In English</a></li>
+				</ul>
+            
+			</div>
+         
+		</div>
+		
+		<div id="header">
+      
+			<a href="etusivu.html"><img class="skaalattu" alt="kansikuva" src="LOGOver1.png"></a>
+		
+		</div>
+		
+		<div id="text">
+      
+			<h2>Ilmari Kinnunen – Ohjelmoinnin yliherra</h2>
+		
+			<p class="esittelyteksti"> Ilmarilla on paljon ohjelmointi kokemusta jo ennallaan 
+			ja hän onkin meidän pääohjelmoija. Ryhmän
+			pääpessimistinä häneltä irtoaa hienosti palautetta
+			asiasta kuin asiasta. Ilmaria kiinnostaa enemmän mitä tulee projektin jälkeen. 
+			</p>
+			
+			<h2>Noora Rintamäki – Scrumlord & websivut</h2>
+		
+			<p class="esittelyteksti"> Tiimimme scrummaster on myös ryhmämme ainoa optimisti. 
+			Nooralla on aina kannustava ja huolehtii, että projekti pysyy aikataulussa. 
+			Hän myös toimii pelin webbisivun ohjelmoijana ja hän kirjoitti oppimateriaalit. 
+			</p>
+		
+			<h2>Jesse Lehto - websivut & trailer</h2>
+		
+			<p class="esittelyteksti"> Jesse on hiukan muita pessimistejä optisempi, mutta
+			pessimistipä kumminkin. Hän toimii toisena
+			webbisivujen ohjelmoijana, mutta hän kokee tarvitsevansa 
+			lisää hommia joten hän on myös tekemässä
+			traileria ja muita pikku hommia silloin kun tarttee. </p>
+		
+			<h2>Viivi Koponen - Graafikko</h2>
+		
+			<p class="esittelyteksti">"Kuka sano lintu?"
+			Viivi fanittaa ja rakastaa Attack on Titania ja lintuja hullunlailla. Hän on
+			tiimimme ainoa hyvä piirtäjä, joten hän on meidän graafikko ja hän omaa myös
+			videoeditointi taitoja. Viivillä on pirteä asenne vaikka häntä vähän
+			hermostuttaakin projektin haasteet. 
+			</p>
+			
+			<h2>Janne Koskinen - Ohjelmoija</h2>
+		
+			<p class="esittelyteksti">
+			Janne tuli tietojenkäsittelyyn insinööripuolelta ja
+			hän onkin ryhmämme toinenohjelmoija. Hänen tehtäviinsä kuuluu pääasiassa 
+			kenttien suunnittelu ja valikon
+			layoutin suunnittelu. Hän kokee projektimme suurena haasteena ja kokee, että
+			projektin toteutuksella on parantamisen varaa. 
+			</p>
+		
+		</div>
+		
+		<div id="footer">
+		
+			<img id="logo_tiko" src="tiko.png" alt="Tikon logo">
+			
+			<img id="logo_tamk" src="tamk.png" alt="Tamkin logo">
+			
+		</div>
+		
+	</div>
+		
+</body>
+
+</html>
