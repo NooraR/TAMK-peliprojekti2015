@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="fi">
+
+<head>
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>FOGELI</title>
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="frame.css">
+	
+</head>
+
+<body>
+
+	<div id="wrapper">
+		
+		<div id="navigation">
+
+			<div class="col-md-11">
+         
+				<ul class="nav nav-pills nav-stacked">
+					<li><a class="navigation" href="index.html">  Index</a></li>
+					<li><a class="navigation" href="about.html">  About</a></li>
+					<li class="active"><a class="navigation" href="team.html">  Team</a></li>
+					<li><a class="navigation" href="contact.html"> Countact us</a></li>
+					<li><a class="navigation" href="learningmaterial.html">  Learning material</a></li>
+					<li><a class="navigation" href="http://14tiko.projects.tamk.fi/">  Portal</a></li>
+					<li><a class="navigation" href="tiimi.html">  Suomeksi</a></li>
+				</ul>
+            
+			</div>
+
+		</div>
+		
+		<div id="header">
+      
+			<a href="index.html"><img class="skaalattu" alt="cover_pic" src="LOGOver1.png"></a>
+		
+		</div>
+		
+		<div id="text">
+		
+			<br>
+		
+			<h2>Ilmari Kinnunen - Programmer</h2>
+		
+			<p class="esittelyteksti"> Ilmari already had a lot of experience with programming 
+			so of course he is our main programmer. As the main pessimist of the team he gives 
+			great critique on a lot of different things. Ilmari is more interested in what comes 
+			after the project.
+			</p>
+			
+			<br>
+			
+			<h2>Noora Rintam&#228;ki - scrummaster & web programmer</h2>
+		
+			<p class="esittelyteksti"> Our team's scrum master is also our group's only optimist. 
+			Noora is always encouraging and makes sure that the project stays on schedule. She 
+			also works on developer this website and wrote the learning materials.
+			</p>
+		
+			<br>
+		
+			<h2>Jesse Lehto - web programmer & trailer</h2>
+		
+			<p class="esittelyteksti"> Jesse is slightly more optimistic than the other pessimists, 
+			but he is still a pessimist. He works as the other developer for the website. He felt 
+			that he needed more work to do so he also made the trailer and does other small things 
+			when needed.
+			</p>
+			
+			<br>
+		
+			<h2>Viivi Koponen - graphic designer</h2>
+		
+			<p class="esittelyteksti">Viivi is Attack on Titan and bird maniac. She is our team's 
+			only proficient artist so naturally she is also our graphic designer. She also knows 
+			video editing. Viivi has a cheery attitude even though project's challenges make her 
+			a little nervous.
+			</p>
+			
+			<br>
+			
+			<h2>Janne Koskinen - programmer</h2>
+		
+			<p class="esittelyteksti">Janne came to business information systems from the 
+			engineering side and he is our second programmer. His main duties are level design 
+			and UX design. He feels that project is a daunting challenge and feels that project 
+			execution could be done better.
+
+			</p>
+		
+		</div>
+		
+		<br>
+		
+		<div id="footer">
+		
+			<img id="logo_tiko" src="tiko.png" alt="Tikos' logo">
+			
+			<img id="logo_tamk" src="tamk.png" alt="Tamks' logo">
+		
+		</div>
+		
+	</div>
+		
+</body>
+
+</html>
